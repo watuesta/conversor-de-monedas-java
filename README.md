@@ -1,5 +1,5 @@
-# conversor-de-monedas-java
-Aplicación que consumen una API, para la conversión de monedas.
+# Conversor de moneda en Java - API Exchange Rate
+Aplicación que consume una API, para la conversión de monedas en tiempo real.
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
